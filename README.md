@@ -1,4 +1,4 @@
-# 23BCS13058_Harsh-Bhardwaj_Exp.5.2
+# 23BCS11110_shashwat_Exp.5.2
 
 ## 🎯 Title
 **Student Management System using MongoDB and MVC Architecture**
